@@ -5,3 +5,5 @@ class Player:
 
     def deposit(self):
         ...
+    def player_info(self):
+        pass
